@@ -111,5 +111,5 @@ Rails.application.configure do
   # config.active_record.database_resolver = ActiveRecord::Middleware::DatabaseSelector::Resolver
   # config.active_record.database_resolver_context = ActiveRecord::Middleware::DatabaseSelector::Resolver::Session
 
-  config.hosts << 'tranquil-spire-25969'
+  config.hosts << 'tranquil-spire-25969.herokuapp.com'
 end
